@@ -1,0 +1,10 @@
+ 6.] <?php
+$username="komal685";
+$password="komal@2751";
+if ($username=="komal685" and $password=="komal@2751"){
+    echo "LOGIN SUCCESSFUL";
+}
+else {
+    echo "INVALID CREDENTIALS";
+}
+?>
