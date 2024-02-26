@@ -1,0 +1,12 @@
+1.] <?php
+    $price=readline("enter the ammount")
+    $dis=$price*0.1;
+    $final=$price-$dis;
+    if ($price>5000)
+    {
+        echo" you need to pay".$final
+    }
+    else{
+        echo "you need to pay" .$price
+    }
+    ?>
